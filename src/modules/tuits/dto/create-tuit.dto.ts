@@ -1,1 +1,4 @@
-export class CreateTuitDto{ }
+export class CreateTuitDto{ 
+
+    
+}
